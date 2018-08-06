@@ -73,6 +73,7 @@
     "node": ">=6.0.0"
   },
   "main": "dist/angular5-svg-round-progressbar.umd.js",
-  "typings": "dist/index.d.ts",
-  "module": "dist/index.js"
+  "module": "dist/index.js",
+  "jsnext:main": "dist/index.js",
+  "typings": "dist/angular5-svg-round-progressbar.d.ts"
 }
